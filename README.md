@@ -6,6 +6,5 @@ Neste projeto foram praticados recursos avancados do novo JavaScript(ES6), como:
 -Programacao Orientada a Objetos;<br/>
 -Manipulacao de dados no formato JSON;<br/>
 -Destructuring Assignment<br/>
-[![](https://werlencardoso.files.wordpress.com/2020/09/despesas.jpg?w=500)](http://werlencardoso.epizy.com/app-orcamento-pessoal/index.html)
-<br/>
+[![](https://werlencardoso.files.wordpress.com/2020/09/despesas.jpg?w=500)](http://werlendev.cf/orcamento-pessoal/)<br/>
 (clique na imagem para visualizar site)
